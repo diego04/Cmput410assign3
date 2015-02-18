@@ -1,5 +1,5 @@
-.topborder{
-
+p{
+	font-family: comic sans ms;	
 }
 
 * {
@@ -33,10 +33,10 @@ body{
 
 .rainbowheader{
     font-size: 55px;
-    background: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet); /* For Safari 5.1 to 6.0 */
-    background	: -o-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet); /* For Fx 3.6 to 15 */
-    background: linear-gradient(to right, yellow, yellow, yellow, yellow, yellow, yellow, orange); /* Standard syntax (must be last) */
+    background: -webkit-linear-gradient(right, yellow, yellow, yellow, orange); /* For Safari 5.1 to 6.0 */
+    background	: -o-linear-gradient(right, yellow, yellow, yellow, orange); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, yellow, yellow, yellow, orange); /* For Fx 3.6 to 15 */
+    background: linear-gradient(to right, yellow, yellow, yellow, orange); /* Standard syntax (must be last) */
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	margin: 0px;
@@ -44,9 +44,9 @@ body{
 
 .rainbowheader2{
     font-size: 55px;
-    background: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet); /* For Fx 3.6 to 15 */
+    background: -webkit-linear-gradient(right, orange, red, red, red, blue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, orange, red, red, red, blue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, orange, red, red, red, blue); /* For Fx 3.6 to 15 */
     background: linear-gradient(to right, orange, red, red, red, blue); /* Standard syntax (must be last) */
     -webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -57,9 +57,9 @@ body{
     height: 20em;
     width: 100%;
     margin: 0;
-    background: -webkit-radial-gradient(red, green, blue); /* Safari 5.1 to 6.0 */
-    background: -o-radial-gradient(red, green, blue); /* For Opera 11.6 to 12.0 */
-    background: -moz-radial-gradient(red, green, blue); /* For Firefox 3.6 to 15 */
+    background: -webkit-radial-gradient(white, blue, blue); /* Safari 5.1 to 6.0 */
+    background: -o-radial-gradient(white, blue, blue); /* For Opera 11.6 to 12.0 */
+    background: -moz-radial-gradient(white, blue, blue); /* For Firefox 3.6 to 15 */
     background: radial-gradient(white, blue, blue); /* Standard syntax (must be last) */
 
 }
@@ -110,7 +110,7 @@ background-color:rgb(40,40,40);
 
 .bodymain{
 	position: absolute;
-	width: 70%;
+	width: 80%;
   	height: 100%;
   	float: left;
   	background-color:rgb(255,255,255);
@@ -121,7 +121,7 @@ background-color:rgb(40,40,40);
 	position:absolute;
 	right: 0;
 	text-align: center;
-	width: 30%;
+	width: 20%;
   	height: 100%;
   	float: right;
 	background-color: rgb(235,199,60);  

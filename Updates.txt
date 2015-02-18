@@ -12,3 +12,12 @@ Overrode inline styles for images to make them smaller.
 Themed paragraphs
 Themed header tags
 Themed images and images caption
+
+
+
+========================================================
+ This pattern is downloaded from www.subtlepatterns.com 
+ If you need more, that's where to get'em. by carlos aguilar
+ ========================================================
+ 
+ 
