@@ -1,0 +1,14 @@
+Updates:
+One external stylesheet for all the html files in different directories
+Changed to html5
+Added background image
+Made images have maximum height and width to make them smaller
+Edited the pre css tag containing contextual information about the books
+Links would be color black and will be blue when mouse hovers it
+Added text shadows over h1 & h2
+Paragraphs would be italics and justified . 
+Paragraphs have indents and margin.
+Overrode inline styles for images to make them smaller.
+Themed paragraphs
+Themed header tags
+Themed images and images caption
