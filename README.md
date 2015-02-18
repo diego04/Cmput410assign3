@@ -1,3 +1,49 @@
+I took the liberty to host my website at Amazon S3
+at Feb 18, 2015
+
+www.kevindeasis.com
+
+
+The screenshots are under the folder named screenshots:
+
+Part1 (Updates):
+
+The files
+I only used one external style sheet as stated in the requirements.org
+One external stylesheet for all the html files in different directories
+Changed the documents to html5
+Added background image for all of them with the filename ricepaper.png
+Made images have maximum height and width to make them smaller and easier to read
+Edited the pre css tag containing contextual information about the books
+Links would be color black and will be blue when mouse hovers it
+Added text shadows over h1 & h2
+Paragraphs would be italics and justified . 
+Paragraphs have indents and margin.
+Overrode inline styles for images to make them smaller.
+Themed paragraphs
+Themed header tags
+Themed images and images caption
+
+
+Part 2:
+
+UGLY CSS:
+The ugly imitated CSS can be seen under uglycss.css
+I used both inline styling and external style sheets.
+The html file is under the name deasis.html
+
+AWESOME CSS:
+The improved CSS website has these specifications:
+I used BootStrap for my own website that I hosted at Amazon S3.
+Also, I used inline styling when I'm not using bootstrap css classes.
+This website was done recently for this assignment: www.kevindeasis.com
+It is the file named kevindeasis.html
+
+I also downloaded a free patter on www.subtlepatterns.com by carlos aguilar
+that file name is footer_lodyas and the image is footer_lodyas.png 
+
+
+====================
 Assignment: CSS Hell
 ====================
 
