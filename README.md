@@ -4,11 +4,13 @@ at Feb 18, 2015
 www.kevindeasis.com
 
 
-The screenshots are under the folder named screenshots:
+The screenshots are under the folder named screenshots.
+Screen shots were taken from firefox.
 
 Part1 (Updates):
 
-The files
+The files are Les Miserables, Twelve Years A Slave, and Lincoln's Love Story
+Added border for the Gutenberg book information and centered the text.
 I only used one external style sheet as stated in the requirements.org
 One external stylesheet for all the html files in different directories
 Changed the documents to html5
@@ -28,6 +30,8 @@ Themed images and images caption
 Part 2:
 
 UGLY CSS:
+I imitated the 3rd comic of http://theoatmeal.com/comics/design_hell
+as stated by the requirements
 The ugly imitated CSS can be seen under uglycss.css
 I used both inline styling and external style sheets.
 The html file is under the name deasis.html
